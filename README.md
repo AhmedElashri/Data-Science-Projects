@@ -25,7 +25,7 @@ This project looks at the data of instagram accounts and predicts if it is a fak
 - Catboost
 
 ### Fruit Classification
-This project looks at the data of instagram accounts and predicts if it is a fake/bot account or not. Made for the Image Processing class.
+The project loads a dataset of apples, bananas, and oranges that are either ripe or rotten and creates. These images were trained in a Convolution Neural Network using those images. The model was then tested using a testing dataset. Made for the Image Processing class.
 ##### Modules:
 - TensorFlow
 - Numpy
